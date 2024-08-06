@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaqib</h1>
 <h3 align="center">A Computer Science Student from Peshawar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqib-yfz&label=Profile%20views&color=0e75b6&style=flat" alt="aaqib-yfz" /> </p>
 
 
 - 📫 How to reach me **aaqibshaheer2001@gmail.com**
