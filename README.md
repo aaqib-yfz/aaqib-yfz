@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aaqib</h1>
-<h3 align="center">A Computer Science Student from Peshawar</h3>
 
 
 
