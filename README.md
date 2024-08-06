@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaqib-yfz&label=Profile%20views&color=0e75b6&style=flat" alt="aaqib-yfz" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
-
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 👯 I’m looking to collaborate on **Data Analysis Case Studies**
-
-- 🤝 I’m looking for help with **Mobile App Development**
 
 - 📫 How to reach me **aaqibshaheer2001@gmail.com**
 
