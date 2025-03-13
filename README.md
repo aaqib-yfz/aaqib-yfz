@@ -4,6 +4,9 @@
           
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
+          <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+</a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/> 
   </a> 
